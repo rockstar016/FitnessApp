@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="400dp"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Day To Add"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp" />
+
+    <ExpandableListView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:id="@+id/expandableListView"
+        android:layout_gravity="center_horizontal"
+        android:groupIndicator="@null"
+        android:choiceMode="singleChoice"
+        android:clickable="true" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="add"
+            android:id="@+id/dlg_add_button"
+            android:padding="10dp"
+            android:layout_gravity="right"
+            android:background="@android:color/transparent"
+            android:textColor="@color/primary_color" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cancel"
+            android:id="@+id/dlg_cancel_button"
+            android:padding="10dp"
+            android:layout_gravity="right"
+            style="@style/RaisedButtonStyle"
+            android:background="@android:color/transparent"
+            android:textColor="@color/primary_color" />
+    </LinearLayout>
+
+</LinearLayout>

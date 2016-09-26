@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/material_background_color">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/btnAction">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/item_twoline_height">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/standard_margin"
+                android:id="@+id/frameLayout">
+                <com.makeramen.roundedimageview.RoundedImageView
+                    android:id="@+id/imgThumbnail"
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:layout_width="@dimen/thumb_width"
+                    android:layout_height="@dimen/thumb_height"
+                    android:scaleType="centerCrop"
+                    android:layout_marginLeft="@dimen/thumb_margin_left"
+                    android:layout_marginBottom="@dimen/thumb_margin_bottom"
+                    app:riv_mutate_background="true"
+                    app:riv_border_color="@color/divider_color"
+                    app:riv_border_width="@dimen/thumb_border_width"
+                    app:riv_oval="true"/>
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/item_padding_with_icon"
+                android:paddingRight="@dimen/item_padding_with_icon_small"
+                android:paddingTop="@dimen/standard_margin"
+                android:paddingBottom="@dimen/standard_margin"
+                android:layout_centerVertical="true"
+                android:id="@+id/linearLayout">
+                <TextView
+                    android:id="@+id/txtPrimaryText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:textColor="@color/text_and_icon_color"
+                    android:ellipsize="end"
+                    android:singleLine="true"/>
+
+                <android.gesture.GestureOverlayView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/gestureOverlayView"></android.gesture.GestureOverlayView>
+
+                <TextView
+                    android:id="@+id/txtSecondaryText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/subhead"
+                    android:textColor="@color/accent_color"
+                    android:layout_below="@+id/txtPrimaryText"
+                    android:ellipsize="end"
+                    android:singleLine="true"/>
+
+            </LinearLayout>
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="+"
+                android:id="@+id/b_plus"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:textSize="24sp"
+                android:background="@drawable/abc_switch_thumb_material"
+                android:textColor="@color/abc_primary_text_disable_only_material_light" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="-"
+                android:id="@+id/b_minus"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/b_plus"
+                android:layout_toStartOf="@+id/b_plus"
+                android:textSize="26sp"
+                android:background="@drawable/abc_switch_thumb_material"
+                android:contextClickable="false"
+                android:focusable="false"
+                android:textColor="@color/abc_primary_text_disable_only_material_light" />
+
+        </RelativeLayout>
+    </FrameLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/btnAction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/item_twoline_height"
+        android:padding="@dimen/standard_margin"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone">
+        <com.mikepenz.iconics.view.IconicsImageView
+            android:layout_width="@dimen/small_thumb_width"
+            android:layout_height="@dimen/small_thumb_height"
+            android:layout_centerVertical="true"
+            app:iiv_color="@color/divider_color"
+            app:iiv_icon="gmd-info"/>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_height"
+        android:background="@color/divider_color"
+        android:layout_gravity="bottom"/>
+
+</RelativeLayout>

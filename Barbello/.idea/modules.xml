@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/1.0.1.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/exploded-aar/fr.avianey.com.viewpagerindicator/library/2.4.1/2.4.1.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/exploded-aar/fr.avianey.com.viewpagerindicator/library/2.4.1/2.4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/21.0.2.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/21.0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/r/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/r/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/app/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/buildConfig/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/buildConfig/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/src/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/src/androidTest/androidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/manifest/androidTest/debug/debug.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/manifest/androidTest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/src/main/main.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/bundles/release/release.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/circular_bar_pager_library/build/intermediates/bundles/release/release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barbello-daily-workout-app-for-android/app/src/test/test.iml" filepath="$PROJECT_DIR$/barbello-daily-workout-app-for-android/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

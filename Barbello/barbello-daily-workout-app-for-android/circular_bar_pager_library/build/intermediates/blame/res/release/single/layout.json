@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\circularbar_view_pager.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\src\\main\\res\\layout\\circularbar_view_pager.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    }
+]

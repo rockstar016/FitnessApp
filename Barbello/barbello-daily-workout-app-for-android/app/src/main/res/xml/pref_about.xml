@@ -1,0 +1,29 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- preference for displaying app information -->
+    <com.lb.material_preferences_library.custom_preferences.Preference
+        android:title="@string/pref_app_title"
+        android:summary="@string/pref_app_summary"/>
+
+    <com.lb.material_preferences_library.custom_preferences.Preference
+        android:title="@string/pref_version_title"
+        android:summary="@string/pref_version_summary"/>
+
+    <com.lb.material_preferences_library.custom_preferences.Preference
+        android:title="@string/pref_developer_title"
+        android:summary="@string/pref_developer_summary"/>
+
+    <com.lb.material_preferences_library.custom_preferences.Preference
+        android:title="@string/pref_copyright_title"
+        android:summary="@string/pref_copyright_summary"/>
+
+    <com.lb.material_preferences_library.custom_preferences.Preference
+        android:key="@string/pref_share_key"
+        android:title="@string/pref_share_title"
+        android:summary="@string/pref_share_summary"/>
+
+    <com.lb.material_preferences_library.custom_preferences.Preference
+        android:key="@string/pref_rate_review_key"
+        android:title="@string/pref_rate_review_title"
+        android:summary="@string/pref_rate_review_summary"/>
+    <!-- End of preference -->
+</PreferenceScreen>

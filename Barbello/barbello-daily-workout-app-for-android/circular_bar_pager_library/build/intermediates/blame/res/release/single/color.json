@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\fr.avianey.com.viewpagerindicator\\library\\2.4.1\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "F:\\AndroidWorkSpace\\Barbello\\Barbello\\barbello-daily-workout-app-for-android\\circular_bar_pager_library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\color\\abc_primary_text_material_light.xml"
+    }
+]

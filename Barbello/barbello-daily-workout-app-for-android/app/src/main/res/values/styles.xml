@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/dark_primary_color</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="android:buttonStyle">@style/RaisedButtonStyle</item>
+    </style>
+
+    <!-- Material Dialog specific values-->
+    <style name="AppTheme.Dark" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="android:colorAccent" tools:ignore="NewApi">@color/accent_color</item>
+        <item name="android:listSeparatorTextViewStyle">@style/MPL_PreferenceListHeader</item>
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/dark_primary_color</item>
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme.Light</item>
+        <item name="android:windowBackground">@color/window_background_color</item>
+        <item name="android:textColorPrimary">@color/text_and_icon_color</item>
+        <item name="android:textColorSecondary">@color/accent_color</item>
+        <item name="android:buttonStyle">@style/RaisedButtonStyle</item>
+    </style>
+
+    <style name="AppTheme.ActionBarTheme.Light" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+    </style>
+
+    <style name="RaisedButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/accent_color</item>
+        <item name="android:textColor">@color/text_and_icon_color</item>
+    </style>
+
+    <style name="CircularBarPager_Default">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="progress_arc_max">100</item>
+        <item name="arc_progress">0</item>
+
+        <item name="progress_arc_clockwise_outline_color">@color/material_background_color</item>
+        <item name="progress_arc_clockwise_color">@color/accent_color</item>
+        <item name="progress_arc_counter_clockwise_outline_color">@color/divider_color</item>
+        <item name="progress_arc_counter_clockwise_color">@color/divider_color</item>
+
+        <item name="progress_arc_clockwise_outline_width">2dp</item>
+        <item name="progress_arc_counter_clockwise_outline_width">2dp</item>
+        <item name="progress_arc_clockwise_width">10dp</item>
+        <item name="progress_arc_counter_clockwise_width">10dp</item>
+
+        <item name="progress_pager_on_click_enabled">true</item>
+    </style>
+</resources>

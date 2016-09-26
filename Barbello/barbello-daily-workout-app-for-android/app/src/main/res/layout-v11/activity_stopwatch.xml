@@ -1,0 +1,113 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/window_background_color">
+
+    <include layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:id="@+id/lytContainerLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/standard_margin"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+            <com.github.OrangeGangsters.circularbarpager.library.CircularBarPager
+                android:id="@+id/circularBarPager"
+                android:layout_height="@dimen/circular_bar_width_and_height"
+                android:layout_width="@dimen/circular_bar_width_and_height"
+                android:layout_gravity="center"
+                app:progress_pager_fill_circle_color="@android:color/transparent"
+                app:progress_pager_fill_mode="pie_mode"
+                style="@style/CircularBarPager_Default"/>
+            <FrameLayout
+                android:id="@+id/lytBreakLayout"
+                android:layout_width="@dimen/image_flipper_width_and_height"
+                android:layout_height="@dimen/image_flipper_width_and_height"
+                android:background="@drawable/circle_shape"
+                android:layout_gravity="center">
+                <TextView
+                    android:id="@+id/txtBreakTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textSize="@dimen/display_3"
+                    android:textColor="@color/text_and_icon_color"
+                    android:textStyle="bold"/>
+
+                <ZoomControls
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/zoomControls"
+                    android:layout_gravity="bottom|center_horizontal"
+                    android:layout_marginBottom="15dp"
+                    style="@style/AppTheme.Dark"
+                    android:theme="@style/Base.TextAppearance.AppCompat.Title.Inverse"
+                    android:background="@drawable/mr_ic_audio_vol" />
+
+            </FrameLayout>
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/lytTitleLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/standard_margin"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txtTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/text_and_icon_color"
+                android:textSize="@dimen/headline"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/txtSubTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/accent_color"
+                android:textSize="@dimen/subhead"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <net.i2p.android.ext.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/standard_margin"
+            android:layout_gravity="center"
+            app:fab_icon="@mipmap/ic_play_arrow_white_24dp"
+            app:fab_colorNormal="@color/accent_color"
+            app:fab_colorPressed="@color/light_primary_color"/>
+
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_alignParentBottom="true">
+    </com.google.android.gms.ads.AdView>
+
+    <com.lsjwzh.widget.materialloadingprogressbar.CircleProgressBar
+        android:id="@+id/prgLoading"
+        android:layout_width="@dimen/circleprogressbar_width"
+        android:layout_height="@dimen/circleprogressbar_height"
+        android:layout_centerInParent="true"
+        app:mlpb_enable_circle_background="true"
+        app:mlpb_background_color="@color/material_background_color"/>
+
+</RelativeLayout>

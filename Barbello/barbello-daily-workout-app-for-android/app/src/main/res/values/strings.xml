@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App name -->
+    <string name="app_name">YIX Training</string>
+
+    <!-- Item menu name-->
+    <string name="about">About</string>
+
+    <!-- Label -->
+    <string name="initial_time">00:00</string>
+    <string name="get_started">GET STARTED!</string>
+    <string name="workout">workout</string>
+    <string name="workouts">workouts</string>
+
+    <!-- Action button -->
+    <string name="start">Start</string>
+
+    <!-- Days -->
+    <string-array name="day_names">
+        <item >Sunday</item>
+        <item >Monday</item>
+        <item >Tuesday</item>
+        <item >Wednesday</item>
+        <item >Thursday</item>
+        <item >Friday</item>
+        <item >Saturday</item>
+    </string-array>
+
+    <!-- Home pager titles -->
+    <string-array name="home_pager_titles">
+        <item>EXCERCISES</item>
+        <item>WORKOUTS</item>
+    </string-array>
+
+    <!-- DO NOT change preferences key below -->
+    <string name="pref_share_key">prefShareKey</string>
+    <string name="pref_rate_review_key">prefRateReviewKey</string>
+
+    <!-- preferences value of about preferences page -->
+    <string name="pref_app_title">Application Name</string>
+    <string name="pref_app_summary">Barbello</string>
+    <string name="pref_version_title">Build Version</string>
+    <string name="pref_version_summary">Version 2.1</string>
+    <string name="pref_developer_title">Developer</string>
+    <string name="pref_developer_summary">pongodev</string>
+    <string name="pref_copyright_title">Copyright</string>
+    <string name="pref_copyright_summary">Copyright 2014 pongodev. All rights reserved</string>
+    <string name="pref_share_title">Tell a Friend</string>
+    <string name="pref_share_summary">Tell your friend about this app</string>
+    <string name="pref_rate_review_title">Rate &amp; Review</string>
+    <string name="pref_rate_review_summary">Rate and review this app if you think it is awesome</string>
+
+    <!-- Google Play url. Change your.package.name with your own package name. -->
+    <string name="google_play_url">https://play.google.com/store/apps/details?id=com.your.package</string>
+
+    <!-- Banner ad id. Insert your own banner id, you can get banner id via admob. -->
+    <string name="banner_ad_unit_id">BANNER_AD_UNIT_ID</string>
+
+    <!-- Interstitial ad id. Insert your own interstitial id, you can get interstitial id via admob. -->
+    <string name="interstitial_ad_unit_id">INTERSTITIAL_AD_UNIT_ID</string>
+
+    <!-- Sharing content -->
+    <string name="share_to">Share to</string>
+    <string name="subject">Stay Fit with This App</string>
+    <string name="message"> is fitness app that will help you stay fit everyday. Download it at </string>
+    <string name="sent_via_message">This message was sent from</string>
+    <string name="download">Download</string>
+    <string name="at">at</string>
+    <string name="share_program_message">Hi, I just completed my</string>
+
+    <!-- Snackbar messages -->
+    <string name="workout_already_added">Workout has already added to</string>
+    <string name="workout_successfully_added">Successfully add workout to</string>
+    <string name="success_remove">Workout has been removed from</string>
+
+    <!-- Dialog messages -->
+    <string name="days">Select Day to Add</string>
+    <string name="no_workouts">Workouts are not added yet to this day.</string>
+    <string name="confirm_message">Remove workout from</string>
+    <string name="program">program</string>
+    <string name="workout_completed">Workout Completed</string>
+    <string name="all_workouts_completed">Congratulations you have finished all exercises.</string>
+
+    <!-- Dialog action button -->
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="done">Done</string>
+    <string name="share">Share</string>
+    <string name="add">Add</string>
+
+    <!-- Voice messages -->
+    <string name="beginning_workout">Beginning workout.</string>
+    <string name="first_step">First step.</string>
+    <string name="next_step">Next step.</string>
+    <string name="last_step">Last step.</string>
+
+    <!-- Ripple duration -->
+    <integer name="ripple_duration">30</integer>
+
+
+</resources>

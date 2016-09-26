@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pongodev.dailyworkout" >
+
+    <!-- Include required permissions for Google Mobile Ads to run -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.pongodev.dailyworkout.activities.ActivitySplash"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.pongodev.dailyworkout.activities.ActivityHome"
+            android:launchMode="singleTop"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.pongodev.dailyworkout.activities.ActivityWorkouts"
+            android:launchMode="singleTop"
+            android:label="@string/app_name"
+            android:parentActivityName="com.pongodev.dailyworkout.activities.ActivityHome"
+            android:screenOrientation="portrait" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pongodev.dailyworkout.activities.ActivityHome" />
+        </activity>
+        <activity
+            android:name="com.pongodev.dailyworkout.activities.ActivityWorkouts1"
+            android:launchMode="singleTop"
+            android:label="@string/app_name"
+            android:parentActivityName="com.pongodev.dailyworkout.activities.ActivityHome"
+            android:screenOrientation="portrait" >
+
+             <!--Parent activity meta-data to support 4.0 and lower-->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pongodev.dailyworkout.activities.ActivityHome" />
+        </activity>
+        <activity
+            android:name="com.pongodev.dailyworkout.activities.ActivityStopWatch"
+            android:label=""
+            android:parentActivityName="com.pongodev.dailyworkout.activities.ActivityWorkouts"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pongodev.dailyworkout.activities.ActivityWorkouts1" />
+
+
+        </activity>
+
+        <activity
+            android:name="com.pongodev.dailyworkout.activities.ActivityAbout"
+            android:label="@string/about"
+            android:parentActivityName="com.pongodev.dailyworkout.activities.ActivityHome"
+            android:screenOrientation="portrait" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pongodev.dailyworkout.activities.ActivityHome" />
+        </activity>
+
+        <!-- Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.pongodev.dailyworkout.activities.ActivityDetail"
+            android:label=""
+            android:parentActivityName="com.pongodev.dailyworkout.activities.ActivityWorkouts"
+            android:screenOrientation="portrait" >
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pongodev.dailyworkout.activities.ActivityWorkouts" />
+        </activity>
+    </application>
+
+</manifest>

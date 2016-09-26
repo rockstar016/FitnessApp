@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\main\res"/><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\build\generated\res\rs\debug"/><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\main\res"><file name="circularbar_view_pager" path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\main\res\layout\circularbar_view_pager.xml" qualifiers="" type="layout"/><file path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CircularViewPager">
+        <attr format="integer" name="arc_progress"/>
+        <attr format="integer" name="progress_arc_max"/>
+
+        <attr format="color" name="progress_arc_clockwise_outline_color"/>
+        <attr format="color" name="progress_arc_counter_clockwise_outline_color"/>
+        <attr format="color" name="progress_arc_clockwise_color"/>
+        <attr format="color" name="progress_arc_counter_clockwise_color"/>
+
+        <attr format="dimension" name="progress_arc_clockwise_outline_width"/>
+        <attr format="dimension" name="progress_arc_counter_clockwise_outline_width"/>
+        <attr format="dimension" name="progress_arc_clockwise_width"/>
+        <attr format="dimension" name="progress_arc_counter_clockwise_width"/>
+
+        <attr format="boolean" name="progress_start_line_enabled"/>
+        <attr format="boolean" name="progress_pager_on_click_enabled"/>
+
+        <attr format="color" name="progress_pager_fill_circle_color"/>
+        <attr format="enum" name="progress_pager_fill_mode">
+            <enum name="default_mode" value="0"/>
+            <enum name="pie_mode" value="1"/>
+        </attr>
+
+    </declare-styleable></file><file path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">library</string></file><file path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\main\res\values\styles.xml" qualifiers=""><style name="CircularBarPager_Default">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="progress_arc_max">100</item>
+        <item name="arc_progress">20</item>
+
+        <item name="progress_arc_clockwise_outline_color">#00C853</item>
+        <item name="progress_arc_clockwise_color">#00C853</item>
+        <item name="progress_arc_counter_clockwise_outline_color">#FFFFFF</item>
+        <item name="progress_arc_counter_clockwise_color">#FFFFFF</item>
+
+        <item name="progress_arc_clockwise_outline_width">0.75dp</item>
+        <item name="progress_arc_counter_clockwise_outline_width">0.75dp</item>
+        <item name="progress_arc_clockwise_width">8dp</item>
+        <item name="progress_arc_counter_clockwise_width">8dp</item>
+
+        <item name="progress_pager_on_click_enabled">true</item>
+    </style></file></source><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\build\generated\res\rs\debug"/><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="F:\AndroidWorkSpace\Barbello\Barbello\barbello-daily-workout-app-for-android\circular_bar_pager_library\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircularViewPager"><attr format="integer" name="arc_progress"/><attr format="integer" name="progress_arc_max"/><attr format="color" name="progress_arc_clockwise_outline_color"/><attr format="color" name="progress_arc_counter_clockwise_outline_color"/><attr format="color" name="progress_arc_clockwise_color"/><attr format="color" name="progress_arc_counter_clockwise_color"/><attr format="dimension" name="progress_arc_clockwise_outline_width"/><attr format="dimension" name="progress_arc_counter_clockwise_outline_width"/><attr format="dimension" name="progress_arc_clockwise_width"/><attr format="dimension" name="progress_arc_counter_clockwise_width"/><attr format="boolean" name="progress_start_line_enabled"/><attr format="boolean" name="progress_pager_on_click_enabled"/><attr format="color" name="progress_pager_fill_circle_color"/><attr format="enum" name="progress_pager_fill_mode"><enum name="default_mode" value="0"/><enum name="pie_mode" value="1"/></attr></declare-styleable></configuration></mergedItems></merger>

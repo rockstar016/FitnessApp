@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="standard_margin">16dp</dimen>
+
+    <!-- Image -->
+    <dimen name="circular_bar_width_and_height">320dp</dimen>
+    <dimen name="image_flipper_width_and_height">250dp</dimen>
+    <dimen name="steps_scrollview_width_and_height">200dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="display_3">56sp</dimen>
+    <dimen name="headline">24sp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="subhead">16sp</dimen>
+    <dimen name="body">14sp</dimen>
+    <dimen name="line_spacing">5dp</dimen>
+
+    <!-- Other sizes -->
+    <dimen name="item_padding_with_icon">111dp</dimen>
+    <dimen name="item_padding_with_icon_small">75dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="thumb_width">72dp</dimen>
+    <dimen name="thumb_height">72dp</dimen>
+    <dimen name="small_thumb_width">24dp</dimen>
+    <dimen name="small_thumb_height">24dp</dimen>
+    <dimen name="thumb_margin_left">5dp</dimen>
+    <dimen name="thumb_margin_bottom">5dp</dimen>
+    <dimen name="thumb_border_width">1dp</dimen>
+    <dimen name="tab_height">48dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="circleprogressbar_width">60dp</dimen>
+    <dimen name="circleprogressbar_height">60dp</dimen>
+    <dimen name="subheader_height">48dp</dimen>
+    <dimen name="item_twoline_height">96dp</dimen>
+
+</resources>

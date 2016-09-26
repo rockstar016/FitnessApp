@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app main color (toolbar color) configuration. You can change the app color here. -->
+    <color name="primary_color">#004b96</color>
+    <color name="dark_primary_color">#001079</color>
+    <color name="light_primary_color">#b2b9df</color>
+    <color name="text_and_icon_color">#FFFFFF</color>
+    <color name="accent_color">#39b6dc</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="divider_color">#455A64</color>
+    <color name="window_background_color">#263238</color>
+    <color name="material_background_color">#37474F</color>
+</resources>
